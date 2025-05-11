@@ -24,6 +24,28 @@ Poznámka pod čiarou: Tu je veta s poznámkou pod čiarou. [^1]
 | 7 | Prešovský	| SK-PV	| 827 028 |	8 973,9 |	92 |	665 |	23 |	13 |	Bardejov, Humenné, Kežmarok, Levoča, Medzilaborce, Poprad, Prešov, Sabinov, Snina, Stará Ľubovňa, Stropkov, Svidník, Vranov nad Topľou |
 | 8 | **Košický**	| SK-KI	| 802 092 |	6 754,5 |	119 |	440 |	17 |	11 | Gelnica, Košice I, Košice II, Košice III, Košice IV, Košice-okolie, Michalovce, Rožňava, Sobrance, Spišská Nová Ves, Trebišov |
 
+| **Názov kurzu**                          |    **Dátum_2023**    |    **Dátum_2024**    | **Dátum_2025** | **Videá** |
+|------------------------------------------|:--------------------:|:--------------------:|:--------------:|-----------|
+| DB a Postgre                             |                      |      4. a 11.12.     |      14.5.     |           |
+| Júlia I a II                             |                      |     20. - 21.11.     |   19.02.2025   |           |
+| AI                                       |                      |    06.03. a 18.9.    |      5.3.      |           |
+| Git a GitHub                             |                      |      27. -28.11.     |      12.3.     |           |
+| Interaktívne vizualizácie v Pythone      |                      |  16.-17.10. a 23.10. |                |           |
+| Vysokovýkonné Počítanie                  |                      |     13. a 14.11.     |                |           |
+| Spracovanie a Vizualizácia dát v Pythone |      8. - 9.11.      |     20. - 21.03.     |                |           |
+| SQL I a II                               |                      |    24.04. a 9.05.    |                |           |
+| OOP I a II v Pythone                     | 10.-11. a 18.-19.10. | 14.-15. a 21.-22.02. |                |           |
+| Phython a SQL                            |                      |        22.05.        |                |           |
+| Datamining                               |                      |        10.04.        |                |           |
+| Základy jazyka Python                    |     20. a 21.09.     |                      |                |           |
+| Python a Spracovanie Dát                 |        30.11.        |                      |                |           |
+| DB a jazyk SQL                           |        29.11.        |                      |                |           |
+| Testovanie Softvéru                      |                      |                      |      2.4.      |           |
+| Python &śtandardná knižnica              |                      |                      |      19.3.     |           |
+| Oracle DB                                |                      |                      |      21.5.     |           |
+| Python NS a Keras                        |                      |                      |      9.4.      |           |
+| Apache Spark                             |                      |                      |      23.4.     |           |
+
 
  ### Markdown Upozornenia
 > [!NOTE]
